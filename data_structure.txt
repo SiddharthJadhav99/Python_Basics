@@ -1,0 +1,4 @@
+list - Sequence of mutable values / can be changes and modified / enclosed in []
+tuple - Sequence of immutable values / can not be changed or modified / enclosed in ()
+set - collection of unique values / only unique values, no reptition / enclosed in {}
+dict - collection of key-value pairs / "Harry" : "Gryffindor" /enclosed in {} with two "" separated by :
